@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İletişim</title>
+    <link rel="stylesheet" href="iletişim.css">
+    <link rel="stylesheet" href="app.js">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+               <li><a href="index.html">ANASAYFA</a></li>
+               <li><a href="hakkımızda.html">HAKKIMIZDA</a></li>
+               <li><a href="iletişim.html">İLETİŞİM</a></li>
+               <li><a href="giriş.html">GİRİŞ</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="container">
+        <h2>İletişim Bilgileri</h2>
+        <ul class="blg1">
+          <li>
+            <br><br>
+            <span class="blg1">Adres:</span>
+            <span class="blg2">Ülke, Şehir, Sokak</span>
+          </li>
+          <li>
+            <span class="blg1">Telefon:</span>
+            <span class="blg2">05xxx-xxx-xxxx</span>
+          </li>
+          <li>
+            <span class="blg1">E-posta:</span>
+            <span class="blg2">ornek@gmail.com</span>
+          </li>
+        </ul>
+      </div>
+</body>
+</body>
+</html>
